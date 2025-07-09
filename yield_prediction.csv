@@ -1,13 +1,46 @@
 state_name,crop_name,predicted_yield_2023
-Andhra Pradesh,wheat,1.4127457706547506
-Chhattisgarh,wheat,1.3547905132309117
-Gujarat,wheat,2.784415265981045
-Jharkhand,wheat,1.8168021010932447
-Karnataka,wheat,1.2748249655461408
-Madhya Pradesh,wheat,2.57142746067861
-Maharashtra,wheat,1.4619621125232414
-Rajasthan,wheat,2.9063552803452843
-Telangana,wheat,1.6082179448853668
-Uttar Pradesh,wheat,2.7310882954803577
-Uttarakhand,wheat,2.131276284524836
-West Bengal,wheat,2.489649581898357
+
+Andhra Pradesh,rice,3.76
+Karnataka,rice,2.32
+Telangana,rice,3.04
+Andhra Pradesh,wheat,0.48
+Chhattisgarh,wheat,0.61
+Gujarat,wheat,2.49
+Jharkhand,wheat,1.21
+Karnataka,wheat,0.78
+Madhya Pradesh,wheat,2.42
+Maharashtra,wheat,1.0
+Rajasthan,wheat,2.83
+Telangana,wheat,0.96
+Uttar Pradesh,wheat,2.46
+Uttarakhand,wheat,1.89
+West Bengal,wheat,2.07
+Andhra Pradesh,rapeseed &mustard,0.37
+Chhattisgarh,rapeseed &mustard,0.34
+Gujarat,rapeseed &mustard,1.45
+Karnataka,rapeseed &mustard,0.3
+Madhya Pradesh,rapeseed &mustard,1.46
+Maharashtra,rapeseed &mustard,0.33
+Odisha,rapeseed &mustard,0.21
+Rajasthan,rapeseed &mustard,1.15
+Tamil Nadu,rapeseed &mustard,0.25
+Telangana,rapeseed &mustard,1.36
+Uttar Pradesh,rapeseed &mustard,0.99
+West Bengal,rapeseed &mustard,1.08
+Chhattisgarh,potato,4.85
+Jharkhand,potato,5.67
+Karnataka,potato,13.56
+Uttar Pradesh,potato,24.14
+Uttarakhand,potato,10.17
+Andhra Pradesh,gram,0.69
+Chhattisgarh,gram,0.58
+Gujarat,gram,0.78
+Jharkhand,gram,0.98
+Karnataka,gram,0.6
+Madhya Pradesh,gram,0.98
+Maharashtra,gram,0.64
+Rajasthan,gram,0.56
+Telangana,gram,1.15
+Uttar Pradesh,gram,0.54
+Uttarakhand,gram,0.67
+West Bengal,gram,0.68
