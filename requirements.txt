@@ -4,3 +4,5 @@ prophet==1.1.5
 tqdm==4.66.4
 scikit-learn==1.4.2
 xgboost==2.0.3
+nbformat==5.10.4
+nbclient==0.8.0
